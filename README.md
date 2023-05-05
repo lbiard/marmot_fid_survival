@@ -76,7 +76,7 @@ Main R packages: cmdstanr, version 0.4.0. brms, version 2.16.3.
 
 
 
-DATA-SPECIFIC INFORMATION FOR: `summer_data_osf.csv`
+### DATA-SPECIFIC INFORMATION FOR: `summer_data_osf.csv`
 
 1. Number of variables: 13
 
@@ -102,7 +102,7 @@ DATA-SPECIFIC INFORMATION FOR: `summer_data_osf.csv`
 
 
 
-DATA-SPECIFIC INFORMATION FOR: `winter_data_osf.csv`
+### DATA-SPECIFIC INFORMATION FOR: `winter_data_osf.csv`
 
 1. Number of variables: 11
 
