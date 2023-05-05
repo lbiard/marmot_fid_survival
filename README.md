@@ -31,13 +31,13 @@ This repository hosts data and R codes for Blumstein D. T., Sanchez M., Philson 
 
 1. File List: 
 
--`fid_data_osf.csv` Dataset containing the FID data.
--`summer_data_osf.csv` Dataset containing the summer survival data.
--`winter_data_osf.csv` Dataset containing the winter survival data.
+- `fid_data_osf.csv` Dataset containing the FID data.
+- `summer_data_osf.csv` Dataset containing the summer survival data.
+- `winter_data_osf.csv` Dataset containing the winter survival data.
 
 
--`Bivariate_model_summer.R` Code to look at the among-individual covariance between fid and summer survival.
--`Bivariate_model_winter.R` Code to look at the among-individual covariance between fid and winter survival.
+- `Bivariate_model_summer.R` Code to look at the among-individual covariance between fid and summer survival.
+- `Bivariate_model_winter.R` Code to look at the among-individual covariance between fid and winter survival.
 
 
 ## METHODOLOGICAL INFORMATION
