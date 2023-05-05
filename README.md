@@ -2,6 +2,8 @@
 
 This README file was generated on 30/09/2022 by Louis Bliard, and last modified on 05/05/2023
 
+This repository hosts data and R codes for Blumstein D. T., Sanchez M., Philson C. S., Bliard L. (2023). Is flight initiation distance associated with longer-term survival in yellow-bellied marmots (*Marmota flaviventer*)?. Animal Behaviour. doi: XXXX
+
 ## GENERAL INFORMATION
 
 1. Title: "Data and code from: Is flight initiation distance associated with longer-term survival in yellow-bellied marmots (Marmota flaviventer)?"
